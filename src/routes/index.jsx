@@ -6,7 +6,7 @@ import Profile from "../pages/profile";
 import Dashboard from "../pages/Dashboard";
 import PrivatePage from "../pages/middleware/PrivatePage";
 import NotLogin from "../pages/middleware/NotLogin";
-import StuffIndex from "../pages/stuffs";
+import StuffIndex from "../pages/stuffs/Index";
 import Inbound from "../pages/inbounds/Inbound";
 import AdminRoute from "../pages/middleware/AdminRoute";
 import StaffRoute from "../pages/middleware/StaffRoute";
